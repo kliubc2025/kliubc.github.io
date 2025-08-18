@@ -28,6 +28,20 @@ Education
 * BA, Northeast Normal University (NENU), Sep. 2016 – Jun. 2020
   * Chinese Language and Literature, Faculty of Arts
   * GPA: 91.49/100 (Ranking: 2/119)
+ 
+Grants
+======
+* Research grants
+  * Postgraduate Research Grant (HKUST), 2023 – 2025
+  * Postgraduate Student Research Training Project (NKU), 2021
+    * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
+
+* Travel grants
+  * Student Transportation Subsidy (Acoustical Society of America)
+  * Research Travel Grant (HKUST)	2024
+2024
+  * International Conference Travel Grant (NKU)	2023
+
 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
