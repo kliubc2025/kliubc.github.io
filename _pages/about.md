@@ -70,6 +70,7 @@ Teaching
 ======
 * HUMA 1010 Introduction to Language (HKUST), Fall 2024
   * Teaching Assistant
+
 * HUMA 2400 Approaches to Humanities in China Studies (HKUST), Spring 2024/2025
   * Teaching Assistant
 
@@ -78,7 +79,7 @@ Service
 * HUMA Research Postgraduate (RPg) Student Representative (HKUST), 2024 – 2025
 * Student Assistant (International Cooperation and Exchange Office of NKU), 2023
 * Social Practice Activity in the Summer Vacation (NKU), 2021
-* Academic Representative of the Postgraduate Student Class Committee (NKU), 2020–2023
+* Academic Representative of the Postgraduate Student Class Committee (NKU), 2020 – 2023
 
 Memberships
 ======
