@@ -13,6 +13,4 @@ I am a PhD student at the Speech, Learning, and the Brain (SLaB) Lab at the [The
 Basically, I am interested in phonetics and psycholinguisitcs.
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
