@@ -31,12 +31,12 @@ Education
 
 Grants
 ======
-* Research grants
+* Research Grants
   * Postgraduate Research Grant (HKUST), 2023 – 2025
   * Postgraduate Student Research Training Project (NKU), 2021
    * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
-* Travel grants
+* Travel Grants
   * Student Transportation Subsidy (Acoustical Society of America), 2024
   * Research Travel Grant (HKUST), 2024
   * International Conference Travel Grant (NKU), 2023
