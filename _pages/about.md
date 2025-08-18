@@ -34,13 +34,29 @@ Grants
 * Research grants
   * Postgraduate Research Grant (HKUST), 2023 – 2025
   * Postgraduate Student Research Training Project (NKU), 2021
-    * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
+   * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
 * Travel grants
-  * Student Transportation Subsidy (Acoustical Society of America)
-  * Research Travel Grant (HKUST)	2024
-2024
-  * International Conference Travel Grant (NKU)	2023
+  * Student Transportation Subsidy (Acoustical Society of America), 2024
+  * Research Travel Grant (HKUST), 2024
+  * International Conference Travel Grant (NKU), 2023
+
+Awards (selected)
+======
+  * Hong Kong PhD Fellowship (The Research Grants Council of Hong Kong), 2025/2026/2027
+  * RedBird PhD Award (HKUST), 2025
+  * Dr. Charles Chan Postgraduate Scholarship (HKUST), 2024
+  * Excellent Student (Summer School for Postgraduate Students in Jiangsu Province), 2024
+  * Postgraduate Studentship (HKUST), 2023/2024
+  * Excellent Paper for Young Researchers (International Symposium on Chinese Function Words and Teaching Chinese as a Foreign Language), 2022
+  * First-class Award in the Paper Competition of the College (NKU), 2021
+  * Scholarship for Recommended Postgraduate Students with Admission Exam Exemption (NKU), 2021
+  * Gongneng Scholarship (NKU), 2020/2021/2022
+  * Excellent Graduate (NENU), 2020
+  * National Scholarship (Ministry of Education, People’s Republic of China), 2019
+  * Scholarship for Academic Specialty (NENU), 2018
+  * Presidential Scholarship (NENU), 2017/2018/2020
+  * Excellent Student (NENU), 2017/2018/2019/2020
 
 
 
