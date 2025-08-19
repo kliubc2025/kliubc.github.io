@@ -94,5 +94,8 @@ Skills
 * Data preprocessing and analysis: R; Python; MATLAB (EEGLAB); SPSS
 * Language: Mandarin (native); English (IELTS 7); Cantonese (beginner)
 
+# Contact me
+* Email: kliubc@connect.ust.hk
+
 **Please navigate using the menu to access my publications and presentations.**
 
