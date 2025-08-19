@@ -9,7 +9,4 @@
 
 main:
   - title: "Publications and Presentations "
-    url: /publications/
-
-  - title: "Projects"
-    url: /projects/    
+    url: /publications/ 
