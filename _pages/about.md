@@ -93,3 +93,6 @@ Skills
 * Psychology: E-prime; Psychopy; Paradigm; DmDX; EEG data acquisition (Brain Products)
 * Data preprocessing and analysis: R; Python; MATLAB (EEGLAB); SPSS
 * Language: Mandarin (native); English (IELTS 7); Cantonese (beginner)
+
+**Please navigate using the menu to access my publications and presentations.**
+
