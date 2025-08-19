@@ -20,5 +20,3 @@ Presentations
 * Liang, L., Liu, K., & Wang, J. (2022). A longitudinal study of individual tone variation. Oral presentation at the 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28), Hong Kong: The Chinese University of Hong Kong.
 * Liang, L., Liu, K., & Hou, W. (2021). Synchronic tonal variation in Taiyuan Dialect. Oral presentation at the 14th Phonetic Conference of China (PCC-2021), Lanzhou: Northwest Minzu University. 
 
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
