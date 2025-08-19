@@ -12,7 +12,7 @@ I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://s
 
 My research focuses on phonetics and psycholinguistics. Currently at HKUST, I investigate the fundamental mechanisms of learning and memory from a psycholinguistic perspective. Specifically, I examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning through memory consolidation in older Mandarin-speaking adults. These projects explore the memory encoding, consolidation, and forgetting in aging brains to develop interventions against memory decline. Furthermore, my PhD research will examine how emerging technologies (e.g., virtual reality) promote language learning. 
 
-Before beginning my research journey at HKUST, my linguistic training started during my MA studies. I am a big fan of Chinese tones ever since my first research project, which examined the sound change in lexical tones. In contrast to my current work on non-native tone learning, my earlier research focused on the production-perception link of native tones. To date, I have conducted fieldwork on several Chinese dialects/languages (e.g., Jin Chinese, Gan Chinese), a challenging yet immensely rewarding experience!
+Before beginning my research journey at HKUST, my linguistic training started during my MA studies. I am a big fan of Chinese tones ever since my first research project, which examined the sound change in lexical tones. In contrast to my current work on non-native tone learning, my earlier research focused on the production-perception link of native tones. To date, I have conducted fieldwork on several Chinese dialects/languages (e.g., Jin and Gan Chinese), a challenging yet immensely rewarding experience!
 
 Education
 ======
