@@ -31,7 +31,7 @@ Education
 Grants
 ======
 * Research Grants
-  * Postgraduate Research Grant (HKUST), 2023 – 2025
+  * HUMA Postgraduate Research Grant (HKUST), 2023 – 2025
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
